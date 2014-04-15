@@ -1,5 +1,4 @@
-require 'zlib'
-require 'curb'
+require 'typhoeus'
 require 'sax-machine'
 require 'loofah'
 
@@ -26,4 +25,6 @@ require 'feedjira/parser/google_docs_atom'
 
 module Feedjira
   class NoParserAvailable < StandardError; end
+  class HttpError < StandardError; end
+  class TimeoutError < StandardError; end
 end

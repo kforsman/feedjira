@@ -1,0 +1,222 @@
+HTTP/1.1 200 OK
+Content-Type: text/xml; charset=UTF-8
+ETag: fkkhayM81rgbWEltwTKzn08uElg
+Last-Modified: Fri, 11 Apr 2014 21:38:24 GMT
+Date: Fri, 11 Apr 2014 23:05:40 GMT
+Expires: Fri, 11 Apr 2014 23:05:40 GMT
+Cache-Control: private, max-age=0
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Alternate-Protocol: 80:quic
+Transfer-Encoding: chunked
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/atom10full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+    <title>Paul Dix Explains Nothing</title>
+    
+    <link rel="alternate" type="text/html" href="http://www.pauldix.net/" />
+    <id>tag:typepad.com,2003:weblog-108605</id>
+    <updated>2011-01-13T11:59:00-05:00</updated>
+    <subtitle>The thoughts of some programmer guy in NYC</subtitle>
+    <generator uri="http://www.typepad.com/">TypePad</generator>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/atom+xml" href="http://feeds.feedburner.com/PaulDixExplainsNothing" /><feedburner:info uri="pauldixexplainsnothing" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><entry>
+        <title>Water water everywhere and not a drop to drink: The Myth and Truth of the NYC engineer shortage</title>
+        <link rel="alternate" type="text/html" href="http://feedproxy.google.com/~r/PaulDixExplainsNothing/~3/g6ifVrl_VcU/water-water-everywhere-and-not-a-drop-to-drink-the-myth-and-truth-of-the-nyc-engineer-shortage.html" />
+        <link rel="replies" type="text/html" href="http://www.pauldix.net/2011/01/water-water-everywhere-and-not-a-drop-to-drink-the-myth-and-truth-of-the-nyc-engineer-shortage.html" thr:count="8" thr:updated="2011-03-21T06:09:31-04:00" />
+        <id>tag:typepad.com,2003:post-6a00d8341f4a0d53ef0148c793f692970c</id>
+        <published>2011-01-13T11:59:00-05:00</published>
+        <updated>2011-01-13T12:55:31-05:00</updated>
+        <summary>Earlier this week I had the opportunity to sit with six other people from the NYC technology scene and talk to NYC Council Speaker Christine Quinn and a few members of her staff. Charlie O'Donnell organized the event to help...</summary>
+        <author>
+            <name>Paul Dix</name>
+        </author>
+        
+        
+<content type="html" xml:lang="en-US" xml:base="http://www.pauldix.net/">&lt;div xmlns="http://www.w3.org/1999/xhtml"&gt;&lt;p&gt;Earlier this week I had the opportunity to sit with six other people from the NYC technology scene and talk to NYC Council Speaker Christine Quinn and a few members of her staff. &lt;a href="http://www.thisisgoingtobebig.com" target="_self"&gt;Charlie O'Donnell&lt;/a&gt; organized the event to help Speaker Quinn engage with the startup scene and hear from us directly what the city can do, if anything, to help foster startups, tech, and innovation here in NYC. The two major themes that emerged from the discussion were: more on the ground interaction between city government and the tech community and that NYC has a major shortage of engineering talent. The resulting talk on the perceived programmer shortage in NYC is the inspiration for this post.&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;br&gt;Ask any startup in NYC (or anyone that needs a programmer for that matter) and most will agree that their biggest problem is finding programmers to hire. This was definitely the most prominent topic in the discussion with Speaker Quinn and her staff. The question then became: how do we solve this problem? How can the city government help? The group converged on education as the method to create more programming talent in the city (there wasn't much talk about what can be done to entice already qualified developers to move here). I agree completely that education is what is ultimately needed. An idea that I thought was spot on was required computer science classes for grade school students. We require math and physical sciences. Computers are just as ingrained and important in our society at this point as math and hard sciences. We need something more than teaching kids MS Word, Excel, and Powerpoint. That's like teaching kids how to use a match to light a fire and expecting them to be able to explain the second law of thermodynamics. However, that doesn't solve the immediate need. It's more of a 20 year plan.&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;br&gt;The group's idea to address the immediate need for programmers was to put together secondary classes to give training to those currently unemployed people that have interest in picking up new skills. The city can help immensely by providing space and letting those in need know about the availability of these classes. The thinking goes that people could pick up mobile application development or Ruby on Rails in a period of 3 to 6 months and then jump into the NYC startups that are so desperate for these skill sets. I contend that: first, there are more available engineers in this city than hiring startups claim, and second, this probably won't solve the programmer need to the satisfaction of those NYC startups that claim to be so desperate. Hence the &lt;strong&gt;myth&lt;/strong&gt; that there are no available programmers in NYC and the &lt;strong&gt;truth&lt;/strong&gt; that the best programmers are hard to find. But there is hope to fix this, let me explain...&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;br&gt;First, my claim that there are more engineers in this city than hiring startups claim. It's not that startups can't find anyone. I'm sure that startups with open positions came across resumes and even interview some candidates. It's just that they end up throwing out most of the resumes they see and giving the "no hire" stamp on most of the candidates they interview. I've been guilty of this myself. I've interviewed many candidates and given far more "no hire" than "hire" recommendations. I've also looked through a stack of resumes and thrown out a significant portion of them. This comes naturally from a startup's desire to only hire the best. This means that while startups are all screaming to the rafters about the shortage of programmers, there are programmers in this city that are available for hire. But there is hope...&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;br&gt;Second, my claim that secondary education in mobile app development or Ruby on Rails won't solve the programmer shortage to the satisfaction of NYC startups. This follows naturally from my first point: startups only want to hire the best. If they can't find the best they say that there are no "qualified candidates" out there. While I'm sure that some of the basics of web development or mobile apps can be taught in six months, the student won't be the best. Becoming the best takes years of education, personal study, practice, and work experience. Someone with no previous programming experience that picks up development over the course of six months will still be incredibly green. They will either not pass the resume filter for hiring or will get hung up on questions in the technical interview. In either case the result is the same: no hire and startups still can't find qualified candidates. But there is hope...&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;br&gt;The hurdles around retraining engineers that may not have your specific skill set and working with very junior programmers can be overcome. First, startups need to readjust their expectations. You don't need to have the best in everything. You don't even need a programmer that has your specific skill requirement in their resume. The key is to do pair programming with senior people paired up with junior people (or someone picking up something new). Within six months of full time pairing the junior people will have picked up so much that they'll be well on their way to being ready to mentor a new junior hire themselves.&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;br&gt;Getting students from these programming courses around the resume filter is also possible. The combination of two things will go a long way: require the students to create two or more projects and have the students put those projects up on Github. The two projects will give them invaluable experience. Further, they should be required to refactor as they go based on feedback from code review done by experienced developers. Requiring them to put the code on Github gives multiple advantages. First, they learn how to use source control as they write code. Second, the code reviews done by other developers can be done right there on the site and associated with each commit. Third, they'll have projects of reference that can be used to show prospective employers what exactly their classes taught them.&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;br&gt;For startups to get past the hurdle of hiring junior people they'll need to do a couple of things. First, embrace pair programming as a great method for bringing on junior developers and making them a key part of your team from the beginning (they'll be mid-level and senior before you know it). Second, readjust your expectations. You don't really need the most bad-ass developer you can find. If you did, you'd do whatever it took to poach them from their current job. Mid-level and senior developers paired with junior developers will do just fine for most startup's needs. If you can't find the best, senior, or mid-level developers to pair with junior hires, look to a consulting company. Pivotal Labs (they have a great new office here in NYC) is regularly brought in to pair with developers already in a startup. They do a great job of bringing in solid engineering process and bringing junior developers up to speed quickly (and they're not the only game in town). Finally, if you can't afford a consulting company or hiring senior developers, you'll need to do one of two things. Roll up your own sleeves and pick up some books and a keyboard, or be ok with the fact that you may only be able to convince someone without experience to work on your hot new startup idea (it's how I got started).&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;br&gt;There is definitely hope for the engineering shortage in NYC. It requires bringing on inexperienced people or those in need of retraining (C++ or Java to dynamic language anyone?) and helping them achieve their potential while letting them help you get your startup built. I'd like to thank Speaker Quinn, Sarah, and David from her staff for taking the time to talk to us. I hope that we'll come up with some great ideas and collaboration in the future to make innovation a permanent home here in NYC.&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;br&gt;What ideas do you have to increase the amount of talent here in the city?&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; My friend &lt;a href="http://twitter.com/brodyberg" target="_self"&gt;Brody Berg&lt;/a&gt; wondered why I didn't write about the "talent vortex" in NYC that is the financial industry. I actually originally meant to, but simply forgot. So here is why I think the competition from the NYC financial market helps fuel the &lt;strong&gt;myth&lt;/strong&gt; that it's impossible to find great talent in NYC.&lt;/p&gt;&#xD;
+&lt;p&gt;First, the finance industry generally pays their programmers quite well. Startups that are desperate for these people will just have to get used to it and offer competitive compensation packages. It's kind of like trying to hire programmers in Redmond or Bellevue, WA in the 90's. Microsoft was a huge talent vortex and offered larger salaries and better benefits. The same could have been said for Google from 2003-2008. You either get competitive or find people that these companies have overlooked.&lt;/p&gt;&#xD;
+&lt;p&gt;Which brings me to my second point: there are plenty of programmers to hire that the finance industry won't even look twice at. The intersection of the programmers you want and those that work in finance may not be as large as you think. Financial firms want people from name brand schools (preferably Ivy) with high GPAs (3.5 or greater is common). If you don't want to compete on compensation, look for programmers that don't fit their mold. Self-taught (and specially those with secondary education like this article talks about) are the kinds of programmers that will rarely get consideration from a financial firm.&lt;/p&gt;&#xD;
+&lt;p&gt;Also, the financial industry wants Java, dotNet, and C++ programmers. Chances are that if you're a startup, this isn't what you're after. Further, the finance industry has laid off quite a few programmers in the last three years. These are those experienced engineers that don't have the skill set that matches yours. They know Java, but they don't know Rails and Javascript. However, these are generally smart people that can pick it up very quickly on the job. The easiest way to find a Rails programmer right now is to poach from another community and teach them Rails.&lt;/p&gt;&#xD;
+&lt;p&gt;Competing with the financial firms is tough, but it's certainly doable.&lt;/p&gt;&lt;/div&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?a=g6ifVrl_VcU:RNGm1bOkDvc:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?a=g6ifVrl_VcU:RNGm1bOkDvc:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?i=g6ifVrl_VcU:RNGm1bOkDvc:F7zBnMyn0Lo" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?a=g6ifVrl_VcU:RNGm1bOkDvc:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?i=g6ifVrl_VcU:RNGm1bOkDvc:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/PaulDixExplainsNothing/~4/g6ifVrl_VcU" height="1" width="1"/&gt;</content>
+
+
+
+    <feedburner:origLink>http://www.pauldix.net/2011/01/water-water-everywhere-and-not-a-drop-to-drink-the-myth-and-truth-of-the-nyc-engineer-shortage.html</feedburner:origLink></entry>
+    <entry>
+        <title>Why Mark Suster is wrong about not hiring job hoppers</title>
+        <link rel="alternate" type="text/html" href="http://feedproxy.google.com/~r/PaulDixExplainsNothing/~3/6AgCE0EnGnk/why-mark-suster-is-wrong-about-not-hiring-job-hoppers.html" />
+        <link rel="replies" type="text/html" href="http://www.pauldix.net/2010/04/why-mark-suster-is-wrong-about-not-hiring-job-hoppers.html" thr:count="29" thr:updated="2010-09-10T16:42:20-04:00" />
+        <id>tag:typepad.com,2003:post-6a00d8341f4a0d53ef0133eceffae5970b</id>
+        <published>2010-04-25T10:36:41-04:00</published>
+        <updated>2010-04-25T10:36:41-04:00</updated>
+        <summary>Well known VC and entrepreneur Mark Suster recently posted that you should "Never Hire Job Hoppers. Never. They Make Terrible Employees." I almost completely disagree. Before I dissect his argument I should provide a little disclaimer and background. The disclaimer:...</summary>
+        <author>
+            <name>Paul Dix</name>
+        </author>
+        
+        
+<content type="html" xml:lang="en-US" xml:base="http://www.pauldix.net/">&lt;div xmlns="http://www.w3.org/1999/xhtml"&gt;&lt;p&gt;Well known VC and entrepreneur Mark Suster recently posted that you should "&lt;a href="http://www.bothsidesofthetable.com/2010/04/22/never-hire-job-hoppers-never-they-make-terrible-employees/"&gt;Never Hire Job Hoppers. Never. They Make Terrible Employees.&lt;/a&gt;" I almost completely disagree. Before I dissect his argument I should provide a little disclaimer and background.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;&lt;strong&gt;The disclaimer:&lt;/strong&gt; Mark is definitely more of an authority on the topic than I am. He's a VC and has run companies while I'm currently bootstrapping my own and haven't hired anyone yet. Additionally, there are many people in management and hiring positions that would agree with Mark (based on my own anecdotal conversations with people in hiring positions).&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;&lt;strong&gt;The background:&lt;/strong&gt; I'm guilty of being in the category of disloyal, self-serving, job-hopping scum that Mark is writing about. If you check my &lt;a href="http://www.linkedin.com/in/pauldix"&gt;LinkedIn profile&lt;/a&gt; I have 11 positions listed starting in '98. However, I may get a special carve out upon further explanation of my history. I'll lay it out quickly because it's relevant to my argument later.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;Two of the positions are current. One is part time consulting and the other is my startup. Ok, so 9 positions to explain now. Still in job hopping group. One I quit to go back to school. Three were temporary summer positions while I was in school. Now I'm down to 5, but that probably still makes me a job hopper. In one I was laid off because the startup ran out of runway. Another, I left because the previously mentioned startup had intellectual property (read: code) that sold and I was needed to help the buyer transition and integrate it. Now I'm down to three unexplained company departures. One I left because it was a contract position and the project was completed. The other two I left for other opportunities: one to join a startup and the other to start &lt;a href="http://market.io/"&gt;my own company&lt;/a&gt;.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;With all that out of the way let's dive into some of Mark's points. First, here's what he has to say about someone that has been identified as a job hopper due to having too many short positions on their resume:&lt;/p&gt;&#xD;
+&lt;blockquote&gt;You won’t even get through my filter (unless I know you or you’re recommended). No matter what your job hopping excuse is.&lt;/blockquote&gt;&#xD;
+&#xD;
+&lt;p&gt;This isn't an argument against job hopping, it's an argument for finding a better filter. Now, you definitely won't get through Mark's filter, but you'd get through mine. Note that my filter is built for hiring engineers. Here are some filters in no particular order.&lt;/p&gt;&#xD;
+&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;Do you have relevant experience?&lt;/li&gt;&#xD;
+&lt;li&gt;Do you have a Github or other public code profile?&lt;/li&gt;&#xD;
+&lt;li&gt;Do you have a blog where you write about technical things?&lt;/li&gt;&#xD;
+&lt;li&gt;Are you involved in the community (attending user groups, meetups, etc.)?&lt;/li&gt;&#xD;
+&lt;li&gt;Do you have programming languages and technologies listed on your resume that you picked up in your free time?&lt;/li&gt;&#xD;
+&lt;/ul&gt;&#xD;
+&#xD;
+&lt;p&gt;Most of these filters are designed to tell me if the candidate spends some of their free time improving their skills and advancing their career. Of course, most of those specific filters are only good for finding programmers. They also only apply to looking at resumes and not other things that come in an interview (like personality, culture fit, and more detailed technical stuff). However, people (and not just engineers) that work on their skills and career in their free time are more likely to be job hoppers unless their job is with them and helping to contribute to their growth. So detracting job hopping isn't part of my filter. I'll get into the why when I dig into his primary argument against them (us).&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;Mark goes on to define a job hopper. Notice the language he uses in his definition:&lt;/p&gt;&#xD;
+&#xD;
+&lt;blockquote&gt;If you’re 30 and have had 6 jobs since college you’re 98% likely to be a job hopper. You’re probably disloyal. You don’t have staying power. You’re in it more for yourself than your company. OR … you make bad decisions about which companies you join.&lt;/blockquote&gt;&#xD;
+&#xD;
+&lt;p&gt;There's a little more in his definition, but that's the meaty bit that I want to pick apart. First, the part about being disloyal. "You're in it for yourself more than the company"?! That's exactly what I expect of everyone I work with. They have families to feed, student loans to pay, rent to pay, and they have to be worried about whether their continued employment at the company will benefit their overall career. Everyone is in it for themselves. That's capitalism. The goal is to make is so that everyone's self interests align with that of the company. That means having the right stock options, opportunities for professional growth, acquiring new skills, and clear advancement opportunities. It's a company, not a commune.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;Second, the part about making bad decisions about companies to join. As a VC Mark evaluates companies and hopes to find out of 10: 1 home run and maybe 2 base hits. He's ok if 7-8 of 10 companies in his portfolio fail completely. Job seekers don't have that luxury. They have to evaluate the companies out there and pick &lt;strong&gt;one&lt;/strong&gt;. If it's the wrong one then they have to move on to the next. For job seekers to get through a portfolio of 10 companies it can take a decade of changing jobs each year.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;Next comes Mark's main argument, which I will boil down to the following: Job hoppers make bad employees at startups because startups need people that are loyal and job hoppers have proven that they are disloyal. First, let's talk about loyalty. I consider loyalty, respect, and love to be things that have to be earned. If you want loyalty without earning it, hire a dog. Giving out a paycheck every two weeks doesn't earn you loyalty. As the old saying goes: money can't buy you love, but it can buy you prostitutes (who probably won't be loyal). Loyalty should be earned by building an environment that is mutually beneficial. Further, you have to be sure to continually assess not only employees, but yourself to see if you're living up to their expectations of what a great workplace should be. Don't hire someone off the street and expect them to be loyal right off the bat just because you agreed to give them a paycheck.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;So have job hoppers proven that they are disloyal? For the purposes of Mark's filter the answer is yes, but I personally disagree. I would never fault someone for changing jobs because they felt it was better for their career, or going back to school, or moving to a new city, or because their manager was a jerk, or whatever. Mark's point is that job hopping establishes a pattern of disloyalty and, perhaps, personality flaws. However, you can look at it this way. People have can have a few reasons for staying at a job: it's awesome or they want to leave, but can't find another opportunity. There are many more reasons to &lt;strong&gt;leave&lt;/strong&gt; a job. The truth is that you can't establish whether there is a pattern simply by looking at someone's resume. As my own resume explanations show, there are plenty of reasons to leave jobs. Leave the personality filter for the interview.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;Mark then puts job hoppers as not only no-hires, but also as people he wouldn't fund if they were entrepreneurs pitching their startup. Here's that part:&lt;/p&gt;&#xD;
+&#xD;
+&lt;blockquote&gt;And good VC’s feel the same way. When my company hit the fan in 2001 I could have easily walked and gotten a better paying job. Anyone around then knows that B2B stood for “back-to-banking” and B2C stood for “back-to-consulting.” I took people’s money. It was my job to stay and try and make things better. When I’m looking to fund somebody I care about that loyalty and integrity. I can never know for sure but as I’ve written about before I’m certainly looking for resiliency.&lt;/blockquote&gt;&#xD;
+&#xD;
+&lt;p&gt;So he views job hoppers as people that have proven that they are disloyal, lack integrity, and have no resiliency. Further, if you're a job hopper that will translate to how you view entrepreneurship. This is so &lt;strong&gt;off the mark&lt;/strong&gt; it hurts my brain. Let me explain why. As an entrepreneur there is one benefit that ranks above all others. Stability and a big paycheck definitely aren't it. It's a sense of ownership. It's a sense of owning your own destiny. I've talked to a bunch of other entrepreneurs and they share that feeling. If you ask job hoppers why they left some of their jobs the story will be the opposite. They left because they weren't given enough ownership. They weren't included in vital decision making processes. When you have the ability to improve your workplace, you have no reason to hop jobs. Most jobs don't actually give their employees this chance. They're filled with bureaucracy and ridiculous power struggles. That's exactly the opposite of the startup and entrepreneurship experience.&lt;/p&gt;&lt;p&gt;I propose that Mark has it backwards. Job hoppers could be exactly the kind of people you want to find for your startup. The likely case is that you're a job hopper because you're willing to take risks, you're looking for something great to work on, you're looking for a job that gives you a sense of ownership, and you're looking for the right team. True, you could be a job hopper because you have serious personality flaws, but save that for the interview. If 2 out of 3 job hoppers have exactly the personality traits that make them well suited for startups and 1 is a disloyal scumbag, you're better off specifically filter &lt;strong&gt;for&lt;/strong&gt; job hoppers.You won't ever find 2/3 odds in a stack of resumes.&lt;/p&gt;&lt;p&gt;Finally, I propose that an argument could be made that startups specifically &lt;strong&gt;don't&lt;/strong&gt; want people that stay in jobs too long. These are people that have shown that they prefer stability over exploring  something new (or maybe they were the lucky few that found the right job on the first few tries). Stability is exactly the opposite of what you're signing up for when you join a startup. The person seeking stability over all else will be the first to leave in favor of a big company or government gig when things get dicey.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;The job hopping filter could be used in exactly the opposite way that Mark is suggesting. That shows that it is a poor filter. A filter should give you better than random odds and job hopping just doesn't. It could be good, it could be bad, you just don't know. There are too many reasons for someone to have many entries on the resume. Stick to what's there and don't try to read between the lines. &lt;/p&gt;&lt;p&gt;So who in the hell should you hire? Hire the best. Hire people that can leave your startup at any minute if they wanted to because they're so kick ass that they're constantly getting contacted by interested parties. Then it becomes your job to ensure that you're creating an environment that is equally as good as your people. Create a company that gives your people the most room for growth, creativity, a sense of ownership, and fun. And if you can't hire the best then hire people with any level of experience (novice, intermediate, advanced) that have promise. Then help them become the best so that they can leave any time they want. Hint: they won't. They'll be loyal because you helped them become the best. Your goal should be to help every single employee get to the point where they're the best in their field and are constantly getting job offers.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;And what if they aren't loyal once you've helped them become the best? People will eventually leave no matter what you do. Don't view it as a character flaw on their part. Just know that you can pick up more people because you've created a work environment that breeds the best and the word will spread. And as any job hopper can tell you, there are plenty of companies where your skill, ambition, and talent can go to die, but there are very few that help you become the best and give you real reasons to be loyal.&lt;/p&gt;&lt;/div&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?a=6AgCE0EnGnk:sxOSKuphXTA:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?a=6AgCE0EnGnk:sxOSKuphXTA:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?i=6AgCE0EnGnk:sxOSKuphXTA:F7zBnMyn0Lo" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?a=6AgCE0EnGnk:sxOSKuphXTA:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?i=6AgCE0EnGnk:sxOSKuphXTA:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/PaulDixExplainsNothing/~4/6AgCE0EnGnk" height="1" width="1"/&gt;</content>
+
+
+
+    <feedburner:origLink>http://www.pauldix.net/2010/04/why-mark-suster-is-wrong-about-not-hiring-job-hoppers.html</feedburner:origLink></entry>
+    <entry>
+        <title>Parse Domains from URLs easily with Domainatrix</title>
+        <link rel="alternate" type="text/html" href="http://feedproxy.google.com/~r/PaulDixExplainsNothing/~3/ILoDYYMgIR8/parse-domains-from-urls-easily-with-domainatrix.html" />
+        <link rel="replies" type="text/html" href="http://www.pauldix.net/2009/12/parse-domains-from-urls-easily-with-domainatrix.html" thr:count="9" thr:updated="2010-05-19T11:24:11-04:00" />
+        <id>tag:typepad.com,2003:post-6a00d8341f4a0d53ef012876917e06970c</id>
+        <published>2009-12-30T16:14:39-05:00</published>
+        <updated>2010-01-08T15:07:33-05:00</updated>
+        <summary>I've released another library just in time for the new year. The new library is called Domainatrix and she's used for parsing domain names, canonicalizing URLs, and a few other things. It uses the list of domain names from the...</summary>
+        <author>
+            <name>Paul Dix</name>
+        </author>
+        <category scheme="http://www.sixapart.com/ns/types#category" term="Ruby" />
+        
+        
+<content type="html" xml:lang="en-US" xml:base="http://www.pauldix.net/">&lt;div xmlns="http://www.w3.org/1999/xhtml"&gt;&lt;p&gt;I've released another library just in time for the new year. The new library is called &lt;a href="http://github.com/pauldix/domainatrix"&gt;Domainatrix and she's used for parsing domain names, canonicalizing URLs&lt;/a&gt;, and a few other things. It uses the list of domain names from the &lt;a href="http://publicsuffix.org/"&gt;Public Suffix List&lt;/a&gt; to know what constitutes a subdomain, domain, and public suffix.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;Usage couldn't be simpler.&lt;/p&gt;&#xD;
+&lt;pre&gt;url = Domainatrix.parse("http://www.pauldix.net")&lt;br&gt;url.public_suffix  # =&amp;gt; "net"&lt;br&gt;url.domain # =&amp;gt; "pauldix"&lt;br&gt;url.canonical # =&amp;gt; "net.pauldix"&lt;br&gt;&lt;br&gt;url = Domainatrix.parse("http://foo.bar.pauldix.co.uk/asdf.html?q=arg")&lt;br&gt;url.public_suffix # =&amp;gt; "co.uk"&lt;br&gt;url.domain # =&amp;gt; "pauldix"&lt;br&gt;url.subdomain # =&amp;gt; "foo.bar"&lt;br&gt;url.path  # =&amp;gt; "/asdf.html?q=arg"&lt;br&gt;url.canonical # =&amp;gt; "uk.co.pauldix.bar.foo/asdf.html?q=arg"&lt;br&gt;&lt;/pre&gt;&#xD;
+&lt;p&gt;It's simple, but I think quite useful. Enjoy!&lt;/p&gt;&lt;/div&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?a=ILoDYYMgIR8:EfA9xnPlqtI:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?a=ILoDYYMgIR8:EfA9xnPlqtI:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?i=ILoDYYMgIR8:EfA9xnPlqtI:F7zBnMyn0Lo" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?a=ILoDYYMgIR8:EfA9xnPlqtI:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?i=ILoDYYMgIR8:EfA9xnPlqtI:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/PaulDixExplainsNothing/~4/ILoDYYMgIR8" height="1" width="1"/&gt;</content>
+
+
+
+    <feedburner:origLink>http://www.pauldix.net/2009/12/parse-domains-from-urls-easily-with-domainatrix.html</feedburner:origLink></entry>
+    <entry>
+        <title>Resources for Synchronous Reads, Asynchronous Writes at RubyConf 2009</title>
+        <link rel="alternate" type="text/html" href="http://feedproxy.google.com/~r/PaulDixExplainsNothing/~3/DGpAGa2rdMg/resources-for-synchronous-reads-asynchronous-writes-at-rubyconf-2009.html" />
+        <link rel="replies" type="text/html" href="http://www.pauldix.net/2009/11/resources-for-synchronous-reads-asynchronous-writes-at-rubyconf-2009.html" thr:count="0" />
+        <id>tag:typepad.com,2003:post-6a00d8341f4a0d53ef012875c3311e970c</id>
+        <published>2009-11-21T16:56:19-05:00</published>
+        <updated>2009-11-23T12:11:44-05:00</updated>
+        <summary>Here are some links to articles and libraries that I mentioned in my talk at RubyConf 2009. RabbitMQ Sinatra Typhoeus, my Ruby library for performing parallel Ruby HTTP requests Great intro to RabbitMQ Bunny, a synchronous Ruby library for RabbitMQ...</summary>
+        <author>
+            <name>Paul Dix</name>
+        </author>
+        
+        
+<content type="html" xml:lang="en-US" xml:base="http://www.pauldix.net/">
+&lt;div xmlns="http://www.w3.org/1999/xhtml"&gt;&lt;p&gt;Here are some links to articles and libraries that I mentioned in my talk at RubyConf 2009.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://rabbitmq.com/"&gt;RabbitMQ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.sinatrarb.com/"&gt;Sinatra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://github.com/pauldix/typhoeus/"&gt;Typhoeus, my Ruby library for performing parallel Ruby HTTP requests&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blogs.digitar.com/jjww/2009/01/rabbits-and-warrens/"&gt;Great intro to RabbitMQ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://github.com/celldee/bunny"&gt;Bunny, a synchronous Ruby library for RabbitMQ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://github.com/tmm/amqp"&gt;AMQP, an evented Ruby library for RabbitMQ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://github.com/brianmario/yajl-ruby"&gt;YAJL-Ruby, a superb streaming JSON parser written in Ruby and C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.julianbrowne.com/article/viewer/brewers-cap-theorem"&gt;Good article on Brewer's CAP Theorem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.allthingsdistributed.com/2008/12/eventually_consistent.html"&gt;Vogels' article on Eventually Consistent&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Here are links to images used during the talk.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.flickr.com/photos/28479345@N06/2904198055/"&gt;NYC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.flickr.com/photos/30546596@N00/2353299126/"&gt;Synchronized&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.flickr.com/photos/79982766@N00/268917648/"&gt;lyubov_zhivotn_12&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.flickr.com/photos/73874748@N00/525047172/"&gt;Feathery Friday is Having a Party&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://peepcode.com/system/uploads/2009/envycasts-activerecord-title.png"&gt;Jason Siefer and Greg Pollack of RailsEnvy from their Advanced Active Record Peepcode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.flickr.com/photos/91351004@N00/452412873/"&gt;Highway Insomnia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.flickr.com/photos/19953384@N00/2650022174/"&gt;Boldly go where no man has gone before&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.flickr.com/photos/28233229@N00/1407449118/"&gt;Terrified Sandwich&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.flickr.com/photos/91294193@N00/165416063/"&gt;darma queen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.sinatrarb.com/images/legend.gif"&gt;Sinatra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.flickr.com/photos/91351004@N00/452412873/"&gt;Distance, Depth, Marble World&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.flickr.com/photos/22229020@N07/2148857029/"&gt;Cathédrale espagnole&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.flickr.com/photos/76203377@N00/1306629413/"&gt;Maneating Antenna'd Neotronic Terror Insect Simulator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.flickr.com/photos/78415063@N00/3362517220/"&gt;Don't Stop!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.flickr.com/photos/66757701@N00/2570656870/"&gt;Big Baby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.flickr.com/photos/8018349@N03/2441435170/"&gt;Otter Cry/Laugh - Tamar Otter and Wildlife Park, Devon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Finally, here are the slides with the images removed.&lt;/p&gt;
+&lt;div style="width:425px;text-align:left" id="__ss_2566393"&gt;&lt;a style="font:14px Helvetica,Arial,Sans-serif;display:block;margin:12px 0 3px 0;text-decoration:underline;" href="http://www.slideshare.net/pauldix/synchronous-reads-asynchronous-writes-rubyconf-2009" title="Synchronous Reads Asynchronous Writes RubyConf 2009"&gt;Synchronous Reads Asynchronous Writes RubyConf 2009&lt;/a&gt;&lt;object style="margin:0px" width="425" height="355"&gt;&lt;param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=synchronous-reads-asynchronous-writes-stripped-images-091123110648-phpapp02&amp;stripped_title=synchronous-reads-asynchronous-writes-rubyconf-2009" /&gt;&lt;param name="allowFullScreen" value="true"/&gt;&lt;param name="allowScriptAccess" value="always"/&gt;&lt;embed src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=synchronous-reads-asynchronous-writes-stripped-images-091123110648-phpapp02&amp;stripped_title=synchronous-reads-asynchronous-writes-rubyconf-2009" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style="font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;"&gt;View more &lt;a style="text-decoration:underline;" href="http://www.slideshare.net/"&gt;presentations&lt;/a&gt; from &lt;a style="text-decoration:underline;" href="http://www.slideshare.net/pauldix"&gt;pauldix&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?a=DGpAGa2rdMg:AX5kHLiAKlM:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?a=DGpAGa2rdMg:AX5kHLiAKlM:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?i=DGpAGa2rdMg:AX5kHLiAKlM:F7zBnMyn0Lo" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?a=DGpAGa2rdMg:AX5kHLiAKlM:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?i=DGpAGa2rdMg:AX5kHLiAKlM:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/PaulDixExplainsNothing/~4/DGpAGa2rdMg" height="1" width="1"/&gt;</content>
+
+
+
+    <feedburner:origLink>http://www.pauldix.net/2009/11/resources-for-synchronous-reads-asynchronous-writes-at-rubyconf-2009.html</feedburner:origLink></entry>
+    <entry>
+        <title>Typhoeus, the best Ruby HTTP client just got better</title>
+        <link rel="alternate" type="text/html" href="http://feedproxy.google.com/~r/PaulDixExplainsNothing/~3/vgoUs9dLlAk/typhoeus-the-best-ruby-http-client-just-got-better.html" />
+        <link rel="replies" type="text/html" href="http://www.pauldix.net/2009/10/typhoeus-the-best-ruby-http-client-just-got-better.html" thr:count="8" thr:updated="2010-01-27T03:18:27-05:00" />
+        <id>tag:typepad.com,2003:post-6a00d8341f4a0d53ef0120a6340f31970b</id>
+        <published>2009-10-29T12:29:29-04:00</published>
+        <updated>2009-10-29T12:29:29-04:00</updated>
+        <summary>I've been quietly working on Typhoeus for the last few months. With the help of Wilson Bilkovich and David Balatero I've finished what I think is a significant improvement to the library. The new interface removes all the magic and...</summary>
+        <author>
+            <name>Paul Dix</name>
+        </author>
+        
+        
+<content type="html" xml:lang="en-US" xml:base="http://www.pauldix.net/">&lt;p&gt;I've been quietly working on Typhoeus for the last few months. With the help of &lt;a href="http://metaclass.org/"&gt;Wilson Bilkovich&lt;/a&gt; and &lt;a href="http://github.com/dbalatero"&gt;David Balatero&lt;/a&gt; I've finished what I think is a significant improvement to the library. The new interface removes all the magic and opts instead for clarity.&lt;/p&gt;&lt;p&gt;It's really slick and includes improved stubing support, caching, memoization, and (of course) parallelism. The &lt;a href="http://github.com/pauldix/typhoeus/"&gt;Typhoeus readme&lt;/a&gt; highlights all of the awesomeness. It should be noted that the old interface of including Typhoeus into classes and defining remote methods has been deprecated. I'll be removing that sometime in the next six months.&lt;/p&gt;&lt;p&gt;In addition to thanking everyone using the library and everyone contributing, I should also thank my employer kgbweb. If you're a solid Rubyist that likes parsing, crawling, and stuff, or a machine learning guy, or a Solr/Lucene/indexing bad ass, let me know. We need you and we're doing some crazy awesome stuff.&lt;/p&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?a=vgoUs9dLlAk:g11LczuoG8k:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?a=vgoUs9dLlAk:g11LczuoG8k:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?i=vgoUs9dLlAk:g11LczuoG8k:F7zBnMyn0Lo" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?a=vgoUs9dLlAk:g11LczuoG8k:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/PaulDixExplainsNothing?i=vgoUs9dLlAk:g11LczuoG8k:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/PaulDixExplainsNothing/~4/vgoUs9dLlAk" height="1" width="1"/&gt;</content>
+
+
+
+    <feedburner:origLink>http://www.pauldix.net/2009/10/typhoeus-the-best-ruby-http-client-just-got-better.html</feedburner:origLink></entry>
+ 
+</feed><!-- ph=1 -->
