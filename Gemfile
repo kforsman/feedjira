@@ -7,7 +7,7 @@ gem 'pry'
 group :test do
   gem 'rake'
   gem 'webmock'
-  gem 'debugger'
+  gem 'byebug'
   gem 'simplecov'
 end
 

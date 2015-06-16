@@ -5,6 +5,7 @@ Gem::Specification.new do |s|
   s.name    = 'feedjira'
   s.version = Feedjira::VERSION
   s.license = 'MIT'
+  s.required_ruby_version = '~> 2.0'
 
   s.authors  = ['Paul Dix', 'Julien Kirch', 'Ezekiel Templin', 'Jon Allured']
   s.email    = 'feedjira@gmail.com'
