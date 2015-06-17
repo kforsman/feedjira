@@ -11,7 +11,3 @@ group :test do
   gem 'simplecov'
 end
 
-platforms :rbx do
-  gem 'racc'
-  gem 'rubysl'
-end
